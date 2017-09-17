@@ -9,7 +9,7 @@ export class AppService{
     constructor(private http: Http){
         console.log('app service initialized');
     }
-
+  //testing jenkins build
     getAll(){
         return this.http.get('http://localhost:9090/vendor/getAll')
         .map(res => res.json());
