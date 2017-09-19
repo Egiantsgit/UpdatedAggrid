@@ -27,11 +27,7 @@
     "bootstrap": "^3.3.6",
     "codelyzer": "2.1.1",
     "core-js": "2.4.x",
-    "jasmine-core": "2.6.4",
-    "jasmine-spec-reporter": "3.3.0",
     "jquery": "3.1.1",
-    "karma": "1.7.0",
-    "karma-chrome-launcher": "2.1.1",
     "ng2-bootstrap-modal": "^1.0.1",
     "ng2-bs3-modal": "^0.10.4",
     "ng2-dropdown": "0.0.21",
@@ -51,10 +47,7 @@
     "@types/node": "6.0.78",
     "http-server": "0.9.0",
     "protractor": "5.1.2",
-    "ts-node": "2.0.0",
-    "tslint": "4.4.2",
-    "typescript": "2.4.x",
-    "webdriver-manager": "10.2.5"
+    "typescript": "2.4.x"
   },
   "devDependencies": {
     "codelyzer": "2.0.1",
